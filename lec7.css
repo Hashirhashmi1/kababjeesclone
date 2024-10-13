@@ -1,0 +1,25 @@
+body{
+    background-color: black;
+}
+form{
+    background-color: aliceblue;
+    border: 4px solid rgb(242, 76, 76);
+    width: 400px;
+    padding: 20 px;
+    margin: auto;
+}
+button{
+    background-color: rgb(234, 159, 159);
+}
+img{
+    align-items: center;
+}
+h2{
+    text-align: center;
+}
+h3{
+    font-size: large;
+}
+.coloring ul li a{
+color:red;
+}
